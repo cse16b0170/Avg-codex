@@ -1,3 +1,3 @@
 # Av-codex
-mine first Git repository
-creator Aviral Gupta
+This is my first Git Repository.
+Creator-Aviral Gupta
