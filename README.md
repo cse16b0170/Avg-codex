@@ -1,2 +1,2 @@
-# Avg-codex
+# Av-codex
 mine first Git repository
